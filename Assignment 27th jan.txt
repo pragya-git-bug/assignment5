@@ -1,0 +1,55 @@
+Assignment 27th jan
+
+Answer1
+Statically Typed:
+
+In statically typed languages, variable types are determined at compile-time, which means that the type of a variable is known at the time the program is compiled.
+Variables must be declared with a specific type, and this type is enforced by the compiler. Once a variable is declared with a certain type, it cannot be changed.
+Examples of statically typed languages include Java, C, C++, and Swift.
+Dynamically Typed:
+
+In dynamically typed languages, variable types are determined at runtime, which means that the type of a variable is known only when the program is executed.
+Variables do not need to be explicitly declared with a type, and their type can change during runtime.
+Examples of dynamically typed languages include Python, JavaScript, and Ruby.
+
+Answer2
+
+In Java, variables are containers for storing data values. Each variable must be declared with a specific data type, and once declared, its type cannot be changed
+
+Answer3
+
+In Java, you can assign a value to a variable during its declaration or at a later point in the program.
+int myNumber = 42;
+
+Answer4
+
+In Java, primitive data types are the basic building blocks for representing simple values. These data types are not objects and do not have methods. Java has eight primitive data types, which are categorized into four groups:
+byte myByte = 127;
+short myShort = 32000;
+int myInt = 2147483647;
+long myLong = 9223372036854775807L;
+
+Answer5
+In Java, identifiers are names given to various program elements such as classes, variables, methods, and labels. Identifiers are used to uniquely identify and refer to these program elements in the source code.
+
+Answer6
+In Java, operators are symbols that perform operations on operands. Operands can be variables, literals, method calls, or expressions.
+
+Answer7
+Increment Operators:
+
+++ is the increment operator.
+It adds 1 to the current value of the variable.
+int x = 5;
+x++; // Increment x by 1
+System.out.println(x); // Output: 6
+
+
+Decrement Operators:
+
+-- is the decrement operator.
+It subtracts 1 from the current value of the variable.
+
+int x = 5;
+x--; // Decrement x by 1
+System.out.println(x); // Output: 4
